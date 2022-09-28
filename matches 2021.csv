@@ -1,0 +1,572 @@
+date,home_team,away_team,home_team_continent,away_team_continent,away_team_fifa_rank,home_team_fifa_rank,home_team_total_fifa_points,away_team_total_fifa_points,home_team_score,away_team_score,tournament,city,country,neutral_location,shoot_out,home_team_result
+2022-01-02,Gabon,Burkina Faso,Africa,Africa,60,89,1262,1397,0,3,Friendly,Dubai,United Arab Emirates,TRUE,No,Lose
+2022-01-02,Sudan,Zimbabwe,Africa,Africa,121,125,1131,1138,0,0,Friendly,Yaoundé,Cameroon,TRUE,No,Draw
+2022-01-03,Rwanda,Guinea,Africa,Africa,81,135,1095,1298,3,0,Friendly,Kigali,Rwanda,FALSE,No,Win
+2022-01-04,Mauritania,Gabon,Africa,Africa,89,103,1190,1262,1,1,Friendly,Dubai,United Arab Emirates,TRUE,No,Draw
+2022-01-05,Algeria,Ghana,Africa,Africa,52,29,1516,1428,3,0,Friendly,Al Rayyan,Qatar,TRUE,No,Win
+2022-01-06,Rwanda,Guinea,Africa,Africa,81,135,1095,1298,0,2,Friendly,Kigali,Rwanda,FALSE,No,Lose
+2022-01-09,Cameroon,Burkina Faso,Africa,Africa,60,50,1437,1397,2,1,African Cup of Nations,Yaoundé,Cameroon,FALSE,No,Win
+2022-01-09,Ethiopia,Cabo Verde,Africa,Africa,73,137,1087,1339,0,1,African Cup of Nations,Yaoundé,Cameroon,TRUE,No,Lose
+2022-01-10,Senegal,Zimbabwe,Africa,Africa,121,20,1561,1138,1,0,African Cup of Nations,Bafoussam,Cameroon,TRUE,No,Win
+2022-01-10,Guinea,Malawi,Africa,Africa,129,81,1298,1127,1,0,African Cup of Nations,Bafoussam,Cameroon,TRUE,No,Win
+2022-01-10,Morocco,Ghana,Africa,Africa,52,28,1529,1428,1,0,African Cup of Nations,Yaoundé,Cameroon,TRUE,No,Win
+2022-01-10,Comoros,Gabon,Africa,Africa,89,132,1117,1262,0,1,African Cup of Nations,Yaoundé,Cameroon,TRUE,No,Lose
+2022-01-11,Nigeria,Egypt,Africa,Africa,45,36,1478,1451,1,0,African Cup of Nations,Garoua,Cameroon,TRUE,No,Win
+2022-01-11,Sudan,Guinea-Bissau,Africa,Africa,106,125,1131,1177,0,0,African Cup of Nations,Garoua,Cameroon,TRUE,No,Draw
+2022-01-11,Algeria,Sierra Leone,Africa,Africa,108,29,1516,1174,0,0,African Cup of Nations,Douala,Cameroon,TRUE,No,Draw
+2022-01-12,Iceland,Uganda,Europe,Africa,82,62,1385,1285,1,1,Friendly,Belek,Turkey,TRUE,No,Draw
+2022-01-12,Equatorial Guinea,Côte d'Ivoire,Africa,Africa,56,114,1156,1417,0,1,African Cup of Nations,Douala,Cameroon,TRUE,No,Lose
+2022-01-12,Tunisia,Mali,Africa,Africa,53,30,1512,1427,0,1,African Cup of Nations,Limbé,Cameroon,TRUE,No,Lose
+2022-01-12,Mauritania,Gambia,Africa,Africa,150,103,1190,1049,0,1,African Cup of Nations,Limbé,Cameroon,TRUE,No,Lose
+2022-01-13,Cameroon,Ethiopia,Africa,Africa,137,50,1437,1087,4,1,African Cup of Nations,Yaoundé,Cameroon,FALSE,No,Win
+2022-01-13,Cabo Verde,Burkina Faso,Africa,Africa,60,73,1339,1397,0,1,African Cup of Nations,Yaoundé,Cameroon,TRUE,No,Lose
+2022-01-14,Senegal,Guinea,Africa,Africa,81,20,1561,1298,0,0,African Cup of Nations,Bafoussam,Cameroon,TRUE,No,Draw
+2022-01-14,Malawi,Zimbabwe,Africa,Africa,121,129,1127,1138,2,1,African Cup of Nations,Bafoussam,Cameroon,TRUE,No,Win
+2022-01-14,Morocco,Comoros,Africa,Africa,132,28,1529,1117,2,0,African Cup of Nations,Yaoundé,Cameroon,TRUE,No,Win
+2022-01-14,Gabon,Ghana,Africa,Africa,52,89,1262,1428,1,1,African Cup of Nations,Yaoundé,Cameroon,TRUE,No,Draw
+2022-01-15,Korea Republic,Iceland,Asia,Europe,62,33,1507,1385,5,1,Friendly,Antalya,Turkey,TRUE,No,Win
+2022-01-15,Nigeria,Sudan,Africa,Africa,125,36,1478,1131,3,1,African Cup of Nations,Garoua,Cameroon,TRUE,No,Win
+2022-01-15,Guinea-Bissau,Egypt,Africa,Africa,45,106,1177,1451,0,1,African Cup of Nations,Garoua,Cameroon,TRUE,No,Lose
+2022-01-16,Colombia,Honduras,South America,North America,76,16,1607,1332,2,1,Friendly,Fort Lauderdale,USA,TRUE,No,Win
+2022-01-16,Peru,Panama,South America,North America,63,22,1551,1379,1,1,Friendly,Lima,Peru,FALSE,No,Draw
+2022-01-16,Côte d'Ivoire,Sierra Leone,Africa,Africa,108,56,1417,1174,2,2,African Cup of Nations,Douala,Cameroon,TRUE,No,Draw
+2022-01-16,Algeria,Equatorial Guinea,Africa,Africa,114,29,1516,1156,0,1,African Cup of Nations,Douala,Cameroon,TRUE,No,Lose
+2022-01-16,Gambia,Mali,Africa,Africa,53,150,1049,1427,1,1,African Cup of Nations,Limbé,Cameroon,TRUE,No,Draw
+2022-01-16,Tunisia,Mauritania,Africa,Africa,103,30,1512,1190,4,0,African Cup of Nations,Limbé,Cameroon,TRUE,No,Win
+2022-01-17,Burkina Faso,Ethiopia,Africa,Africa,137,60,1397,1087,1,1,African Cup of Nations,Bafoussam,Cameroon,TRUE,No,Draw
+2022-01-17,Cameroon,Cabo Verde,Africa,Africa,73,50,1437,1339,1,1,African Cup of Nations,Yaoundé,Cameroon,FALSE,No,Draw
+2022-01-18,Moldova,Uganda,Europe,Africa,82,181,928,1285,2,3,Friendly,Belek,Turkey,TRUE,No,Lose
+2022-01-18,Malawi,Senegal,Africa,Africa,20,129,1127,1561,0,0,African Cup of Nations,Bafoussam,Cameroon,TRUE,No,Draw
+2022-01-18,Zimbabwe,Guinea,Africa,Africa,81,121,1138,1298,2,1,African Cup of Nations,Yaoundé,Cameroon,TRUE,No,Win
+2022-01-18,Gabon,Morocco,Africa,Africa,28,89,1262,1529,2,2,African Cup of Nations,Yaoundé,Cameroon,TRUE,No,Draw
+2022-01-18,Ghana,Comoros,Africa,Africa,132,52,1428,1117,2,3,African Cup of Nations,Garoua,Cameroon,TRUE,No,Lose
+2022-01-19,Egypt,Sudan,Africa,Africa,125,45,1451,1131,1,0,African Cup of Nations,Yaoundé,Cameroon,TRUE,No,Win
+2022-01-19,Guinea-Bissau,Nigeria,Africa,Africa,36,106,1177,1478,0,2,African Cup of Nations,Garoua,Cameroon,TRUE,No,Lose
+2022-01-20,Korea Republic,Moldova,Asia,Europe,181,33,1507,928,4,0,Friendly,Antalya,Turkey,TRUE,No,Win
+2022-01-20,Peru,Jamaica,South America,North America,57,22,1551,1412,3,0,Friendly,Lima,Peru,FALSE,No,Win
+2022-01-20,Côte d'Ivoire,Algeria,Africa,Africa,29,56,1417,1516,3,1,African Cup of Nations,Douala,Cameroon,TRUE,No,Win
+2022-01-20,Sierra Leone,Equatorial Guinea,Africa,Africa,114,108,1174,1156,0,1,African Cup of Nations,Limbé,Cameroon,TRUE,No,Lose
+2022-01-20,Gambia,Tunisia,Africa,Africa,30,150,1049,1512,1,0,African Cup of Nations,Limbé,Cameroon,TRUE,No,Win
+2022-01-20,Mali,Mauritania,Africa,Africa,103,53,1427,1190,2,0,African Cup of Nations,Douala,Cameroon,TRUE,No,Win
+2022-01-21,Bolivia,Trinidad and Tobago,South America,South America,100,77,1324,1207,5,0,Friendly,Sucre,Bolivia,FALSE,No,Win
+2022-01-21,Iraq,Uganda,Asia,Africa,82,75,1333,1285,1,0,Friendly,Baghdad,Iraq,FALSE,No,Win
+2022-01-23,Burkina Faso,Gabon,Africa,Africa,89,60,1397,1262,1,1,African Cup of Nations,Limbé,Cameroon,TRUE,Yes,Win
+2022-01-23,Nigeria,Tunisia,Africa,Africa,30,36,1478,1512,0,1,African Cup of Nations,Garoua,Cameroon,TRUE,No,Lose
+2022-01-24,Cameroon,Comoros,Africa,Africa,132,50,1437,1117,2,1,African Cup of Nations,Yaoundé,Cameroon,FALSE,No,Win
+2022-01-24,Guinea,Gambia,Africa,Africa,150,81,1298,1049,0,1,African Cup of Nations,Bafoussam,Cameroon,TRUE,No,Lose
+2022-01-25,Morocco,Malawi,Africa,Africa,129,28,1529,1127,2,1,African Cup of Nations,Yaoundé,Cameroon,TRUE,No,Win
+2022-01-25,Senegal,Cabo Verde,Africa,Africa,73,20,1561,1339,2,0,African Cup of Nations,Bafoussam,Cameroon,TRUE,No,Win
+2022-01-26,Côte d'Ivoire,Egypt,Africa,Africa,45,56,1417,1451,0,0,African Cup of Nations,Douala,Cameroon,TRUE,Yes,Lose
+2022-01-26,Mali,Equatorial Guinea,Africa,Africa,114,53,1427,1156,0,0,African Cup of Nations,Limbé,Cameroon,TRUE,Yes,Lose
+2022-01-27,Bahrain,Uganda,Asia,Africa,82,91,1252,1285,3,1,Friendly,Riffa,Bahrain,FALSE,No,Win
+2022-01-27,Indonesia,Timor-Leste,Asia,Asia,196,164,992,873,4,1,Friendly,Gianyar,Indonesia,FALSE,No,Win
+2022-01-27,Uzbekistan,South Sudan,Asia,Africa,167,84,1274,980,3,0,Friendly,Dubai,United Arab Emirates,TRUE,No,Win
+2022-01-27,Jamaica,Mexico,North America,North America,14,57,1412,1638,1,2,FIFA World Cup qualification,Kingston,Jamaica,FALSE,No,Lose
+2022-01-27,USA,El Salvador,North America,North America,70,11,1648,1349,1,0,FIFA World Cup qualification,Columbus,USA,FALSE,No,Win
+2022-01-27,Honduras,Canada,North America,North America,40,76,1332,1462,0,2,FIFA World Cup qualification,San Pedro Sula,Honduras,FALSE,No,Lose
+2022-01-27,Costa Rica,Panama,North America,North America,63,49,1437,1379,1,0,FIFA World Cup qualification,San José,Costa Rica,FALSE,No,Win
+2022-01-27,Lebanon,Korea Republic,Asia,Asia,33,95,1233,1507,0,1,FIFA World Cup qualification,Sidon,Lebanon,FALSE,No,Lose
+2022-01-27,IR Iran,Iraq,Asia,Asia,75,21,1557,1333,1,0,FIFA World Cup qualification,Tehran,IR Iran,FALSE,No,Win
+2022-01-27,United Arab Emirates,Syria,Asia,Asia,86,69,1350,1268,2,0,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE,No,Win
+2022-01-27,Japan,China PR,Asia,Asia,74,26,1531,1337,2,0,FIFA World Cup qualification,Saitama,Japan,FALSE,No,Win
+2022-01-27,Australia,Vietnam,Oceania,Asia,98,35,1484,1212,4,0,FIFA World Cup qualification,Melbourne,Australia,FALSE,No,Win
+2022-01-27,Saudi Arabia,Oman,Asia,Asia,79,51,1434,1306,1,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,FALSE,No,Win
+2022-01-27,Ecuador,Brazil,South America,South America,2,46,1448,1826,1,1,FIFA World Cup qualification,Quito,Ecuador,FALSE,No,Draw
+2022-01-27,Paraguay,Uruguay,South America,South America,17,43,1454,1596,0,1,FIFA World Cup qualification,Asunción,Paraguay,FALSE,No,Lose
+2022-01-27,Chile,Argentina,South America,South America,5,24,1543,1750,1,2,FIFA World Cup qualification,Calama,Chile,FALSE,No,Lose
+2022-01-28,Jordan,New Zealand,Asia,Oceania,110,90,1255,1165,3,1,Friendly,Abu Dhabi,United Arab Emirates,TRUE,No,Win
+2022-01-28,Suriname,Barbados,South America,North America,162,139,1077,995,1,0,Friendly,Paramaribo,Suriname,FALSE,No,Win
+2022-01-28,Colombia,Peru,South America,South America,22,16,1607,1551,0,1,FIFA World Cup qualification,Barranquilla,Colombia,FALSE,No,Lose
+2022-01-28,Venezuela,Bolivia,South America,South America,77,59,1409,1324,4,1,FIFA World Cup qualification,Barinas,Venezuela,FALSE,No,Win
+2022-01-29,Kuwait,Libya,Asia,Africa,117,142,1064,1151,2,0,Friendly,Kuwait City,Kuwait,FALSE,No,Win
+2022-01-29,Nepal,Mauritius,Asia,Africa,172,169,972,964,1,0,Friendly,Kathmandu,Nepal,FALSE,No,Win
+2022-01-29,Nicaragua,Belize,North America,North America,170,143,1062,967,4,0,Friendly,Managua,Nicaragua,FALSE,No,Win
+2022-01-29,Burkina Faso,Tunisia,Africa,Africa,30,60,1397,1512,1,0,African Cup of Nations,Garoua,Cameroon,TRUE,No,Win
+2022-01-29,Cameroon,Gambia,Africa,Africa,150,50,1437,1049,2,0,African Cup of Nations,Douala,Cameroon,FALSE,No,Win
+2022-01-30,Indonesia,Timor-Leste,Asia,Asia,196,164,992,873,3,0,Friendly,Gianyar,Indonesia,FALSE,No,Win
+2022-01-30,Egypt,Morocco,Africa,Africa,28,45,1451,1529,2,1,African Cup of Nations,Yaoundé,Cameroon,TRUE,No,Win
+2022-01-30,Senegal,Equatorial Guinea,Africa,Africa,114,20,1561,1156,3,1,African Cup of Nations,Yaoundé,Cameroon,TRUE,No,Win
+2022-01-30,Canada,USA,North America,North America,11,40,1462,1648,2,0,FIFA World Cup qualification,Hamilton,Canada,FALSE,No,Win
+2022-01-30,Mexico,Costa Rica,North America,North America,49,14,1638,1437,0,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE,No,Draw
+2022-01-30,Panama,Jamaica,North America,North America,57,63,1379,1412,3,2,FIFA World Cup qualification,Panama City,Panama,FALSE,No,Win
+2022-01-30,Honduras,El Salvador,North America,North America,70,76,1332,1349,0,2,FIFA World Cup qualification,San Pedro Sula,Honduras,FALSE,No,Lose
+2022-02-01,Bahrain,Congo DR,Asia,Africa,64,91,1252,1375,1,0,Friendly,Riffa,Bahrain,FALSE,No,Win
+2022-02-01,Kuwait,Libya,Asia,Africa,117,142,1064,1151,0,2,Friendly,Kuwait City,Kuwait,FALSE,No,Lose
+2022-02-01,Nepal,Mauritius,Asia,Africa,172,169,972,964,1,0,Friendly,Kathmandu,Nepal,FALSE,No,Win
+2022-02-01,Nicaragua,Belize,North America,North America,170,143,1062,967,1,1,Friendly,Managua,Nicaragua,FALSE,No,Draw
+2022-02-01,Suriname,Guyana,South America,South America,176,139,1077,958,2,1,Friendly,Paramaribo,Suriname,FALSE,No,Win
+2022-02-01,Lebanon,Iraq,Asia,Asia,75,95,1233,1333,1,1,FIFA World Cup qualification,Sidon,Lebanon,FALSE,No,Draw
+2022-02-01,IR Iran,United Arab Emirates,Asia,Asia,69,21,1557,1350,1,0,FIFA World Cup qualification,Tehran,IR Iran,FALSE,No,Win
+2022-02-01,Syria,Korea Republic,Asia,Asia,33,86,1268,1507,0,2,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE,No,Lose
+2022-02-01,Vietnam,China PR,Asia,Asia,74,98,1212,1337,3,1,FIFA World Cup qualification,Hanoi,Vietnam,FALSE,No,Win
+2022-02-01,Japan,Saudi Arabia,Asia,Asia,51,26,1531,1434,2,0,FIFA World Cup qualification,Saitama,Japan,FALSE,No,Win
+2022-02-01,Oman,Australia,Asia,Oceania,35,79,1306,1484,2,2,FIFA World Cup qualification,Muscat,Oman,FALSE,No,Draw
+2022-02-01,Bolivia,Chile,South America,South America,24,77,1324,1543,2,3,FIFA World Cup qualification,La Paz,Bolivia,FALSE,No,Lose
+2022-02-01,Uruguay,Venezuela,South America,South America,59,17,1596,1409,4,1,FIFA World Cup qualification,Montevideo,Uruguay,FALSE,No,Win
+2022-02-01,Argentina,Colombia,South America,South America,16,5,1750,1607,1,0,FIFA World Cup qualification,Córdoba,Argentina,FALSE,No,Win
+2022-02-01,Peru,Ecuador,South America,South America,46,22,1551,1448,1,1,FIFA World Cup qualification,Lima,Peru,FALSE,No,Draw
+2022-02-01,Brazil,Paraguay,South America,South America,43,2,1826,1454,4,0,FIFA World Cup qualification,Belo Horizonte,Brazil,FALSE,No,Win
+2022-02-02,Burkina Faso,Senegal,Africa,Africa,20,60,1397,1561,1,3,African Cup of Nations,Yaoundé,Cameroon,TRUE,No,Lose
+2022-02-02,USA,Honduras,North America,North America,76,11,1648,1332,3,0,FIFA World Cup qualification,Saint Paul,USA,FALSE,No,Win
+2022-02-02,Jamaica,Costa Rica,North America,North America,49,57,1412,1437,0,1,FIFA World Cup qualification,Kingston,Jamaica,FALSE,No,Lose
+2022-02-02,El Salvador,Canada,North America,North America,40,70,1349,1462,0,2,FIFA World Cup qualification,San Salvador,El Salvador,FALSE,No,Lose
+2022-02-02,Mexico,Panama,North America,North America,63,14,1638,1379,1,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE,No,Win
+2022-02-03,Cameroon,Egypt,Africa,Africa,45,50,1437,1451,0,0,African Cup of Nations,Yaoundé,Cameroon,FALSE,Yes,Lose
+2022-02-05,Cameroon,Burkina Faso,Africa,Africa,60,50,1437,1397,3,3,African Cup of Nations,Yaoundé,Cameroon,FALSE,Yes,Win
+2022-02-06,Senegal,Egypt,Africa,Africa,45,20,1561,1451,0,0,African Cup of Nations,Yaoundé,Cameroon,TRUE,Yes,Win
+2022-03-17,Cook Islands,Solomon Islands,Oceania,Oceania,142,190,908,1072,0,2,FIFA World Cup qualification,Doha,Qatar,TRUE,No,Lose
+2022-03-18,Papua New Guinea,New Zealand,Oceania,Oceania,111,165,990,1161,0,1,FIFA World Cup qualification,Doha,Qatar,TRUE,No,Lose
+2022-03-18,New Caledonia,Fiji,Oceania,Oceania,162,153,1035,996,1,2,FIFA World Cup qualification,Doha,Qatar,TRUE,No,Lose
+2022-03-18,Iraq,Zambia,Asia,Africa,88,74,1325,1264,3,1,Friendly,Baghdad,Iraq,FALSE,No,Win
+2022-03-19,Mauritius,Seychelles,Africa,Africa,196,176,955,870,0,0,Friendly,Saint Pierre,Mauritius,FALSE,No,Draw
+2022-03-21,Papua New Guinea,New Caledonia,Oceania,Oceania,153,165,990,1035,1,0,FIFA World Cup qualification,Doha,Qatar,TRUE,No,Win
+2022-03-21,New Zealand,Fiji,Oceania,Oceania,162,111,1161,996,4,0,FIFA World Cup qualification,Doha,Qatar,TRUE,No,Win
+2022-03-23,Bahrain,India,Asia,Asia,104,89,1263,1182,2,1,Friendly,Riffa,Bahrain,FALSE,No,Win
+2022-03-23,Gibraltar,Grenada,Europe,North America,169,203,853,974,0,0,Friendly,Gibraltar,Gibraltar,FALSE,No,Draw
+2022-03-23,Guinea-Bissau,Equatorial Guinea,Africa,Africa,99,113,1158,1210,3,0,Friendly,Óbidos,Portugal,TRUE,No,Win
+2022-03-23,Laos,Mongolia,Asia,Asia,184,187,904,916,1,0,Friendly,Vientiane,Laos,FALSE,No,Win
+2022-03-23,Malaysia,Philippines,Asia,Asia,129,154,1034,1129,2,0,Friendly,Kallang,Singapore,TRUE,No,Win
+2022-03-23,Mozambique,Niger,Africa,Africa,114,117,1151,1158,1,1,Friendly,Nouakchott,Mauritania,TRUE,No,Draw
+2022-03-23,Tanzania,Central African Republic,Africa,Africa,130,132,1118,1127,3,1,Friendly,Dar es Salaam,Tanzania,FALSE,No,Win
+2022-03-23,Chad,Gambia,Africa,Africa,125,180,935,1135,0,1,African Cup of Nations qualification,Yaoundé,Cameroon,TRUE,No,Lose
+2022-03-23,Djibouti,South Sudan,Africa,Africa,168,192,896,977,2,4,African Cup of Nations qualification,Alexandria,Egypt,TRUE,No,Lose
+2022-03-23,Seychelles,Lesotho,Africa,Africa,146,196,870,1057,0,0,African Cup of Nations qualification,Saint Pierre,Mauritius,TRUE,No,Draw
+2022-03-23,Somalia,Eswatini,Africa,Africa,147,194,873,1054,0,3,African Cup of Nations qualification,Dar es Salaam,Tanzania,TRUE,No,Lose
+2022-03-24,Jamaica,El Salvador,North America,North America,70,62,1378,1346,1,1,FIFA World Cup qualification,Kingston,Jamaica,FALSE,No,Draw
+2022-03-24,Mexico,USA,North America,North America,13,12,1647,1643,0,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE,No,Draw
+2022-03-24,Panama,Honduras,North America,North America,78,63,1375,1303,1,1,FIFA World Cup qualification,Panama City,Panama,FALSE,No,Draw
+2022-03-24,Costa Rica,Canada,North America,North America,33,42,1464,1497,1,0,FIFA World Cup qualification,San José,Costa Rica,FALSE,No,Win
+2022-03-24,Lebanon,Syria,Asia,Asia,91,95,1228,1251,0,3,FIFA World Cup qualification,Sidon,Lebanon,FALSE,No,Lose
+2022-03-24,Iraq,United Arab Emirates,Asia,Asia,69,74,1325,1353,1,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,TRUE,No,Win
+2022-03-24,Korea Republic,IR Iran,Asia,Asia,21,29,1522,1572,2,0,FIFA World Cup qualification,Seoul,Korea Republic,FALSE,No,Win
+2022-03-24,China PR,Saudi Arabia,Asia,Asia,53,75,1313,1433,1,1,FIFA World Cup qualification,Sharjah,United Arab Emirates,TRUE,No,Draw
+2022-03-24,Vietnam,Oman,Asia,Asia,79,98,1218,1301,0,1,FIFA World Cup qualification,Hanoi,Vietnam,FALSE,No,Lose
+2022-03-24,Australia,Japan,Oceania,Asia,23,37,1486,1549,0,2,FIFA World Cup qualification,Sydney,Australia,FALSE,No,Lose
+2022-03-24,Solomon Islands,Tahiti,Oceania,Oceania,159,142,1072,1014,3,1,FIFA World Cup qualification,Doha,Qatar,TRUE,No,Win
+2022-03-24,Fiji,Papua New Guinea,Oceania,Oceania,165,162,996,990,1,2,FIFA World Cup qualification,Doha,Qatar,TRUE,No,Lose
+2022-03-24,New Zealand,New Caledonia,Oceania,Oceania,153,111,1161,1035,7,1,FIFA World Cup qualification,Doha,Qatar,TRUE,No,Win
+2022-03-24,Colombia,Bolivia,South America,South America,76,19,1585,1308,3,0,FIFA World Cup qualification,Barranquilla,Colombia,FALSE,No,Win
+2022-03-24,Brazil,Chile,South America,South America,26,2,1823,1543,4,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,FALSE,No,Win
+2022-03-24,Paraguay,Ecuador,South America,South America,44,50,1440,1458,3,1,FIFA World Cup qualification,Ciudad del Este,Paraguay,FALSE,No,Win
+2022-03-24,Uruguay,Peru,South America,South America,22,16,1614,1563,1,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE,No,Win
+2022-03-24,Italy,North Macedonia,Europe,Europe,67,6,1740,1367,0,1,FIFA World Cup qualification,Palermo,Italy,FALSE,No,Lose
+2022-03-24,Portugal,Turkey,Europe,Europe,39,8,1660,1472,3,1,FIFA World Cup qualification,Porto,Portugal,FALSE,No,Win
+2022-03-24,Sweden,Czech Republic,Europe,Europe,31,17,1588,1510,1,0,FIFA World Cup qualification,Stockholm,Sweden,FALSE,No,Win
+2022-03-24,Wales,Austria,Europe,Europe,30,20,1578,1511,2,1,FIFA World Cup qualification,Cardiff,Wales,FALSE,No,Win
+2022-03-24,Armenia,Montenegro,Europe,Europe,72,92,1242,1342,1,0,Friendly,Yerevan,Armenia,FALSE,No,Win
+2022-03-24,Guatemala,Cuba,North America,North America,179,123,1138,948,1,0,Friendly,Antigua Guatemala,Guatemala,FALSE,No,Win
+2022-03-24,Hungary,Serbia,Europe,Europe,25,41,1465,1547,0,1,Friendly,Budapest,Hungary,FALSE,No,Lose
+2022-03-24,Kosovo,Burkina Faso,Europe,Africa,56,109,1163,1418,5,0,Friendly,Pristina,Kosovo,FALSE,No,Win
+2022-03-24,Liberia,Benin,Africa,Africa,83,145,1058,1282,0,4,Friendly,Antalya,Turkey,TRUE,No,Lose
+2022-03-24,Maldives,Bangladesh,Africa,Asia,186,157,1021,907,2,0,Friendly,Malé,Maldives,FALSE,No,Win
+2022-03-24,Scotland,Poland,Europe,Europe,28,40,1471,1530,1,1,Friendly,Glasgow,Scotland,FALSE,No,Draw
+2022-03-24,Thailand,Nepal,Asia,Asia,167,112,1160,982,2,0,Friendly,Chonburi,Thailand,FALSE,No,Win
+2022-03-24,Togo,Sierra Leone,Africa,Africa,107,126,1133,1173,3,0,Friendly,Antalya,Turkey,TRUE,No,Win
+2022-03-24,Estonia,Cyprus,Europe,Europe,105,106,1176,1178,0,0,UEFA Nations League,Tallinn,Estonia,FALSE,No,Draw
+2022-03-24,Moldova,Kazakhstan,Europe,Europe,120,181,926,1140,1,2,UEFA Nations League,Chișinău,Moldova,FALSE,No,Lose
+2022-03-24,Mauritius,São Tomé and Príncipe,Africa,Africa,189,176,955,903,3,0,African Cup of Nations qualification,Saint Pierre,Mauritius,FALSE,No,Win
+2022-03-25,Cameroon,Algeria,Africa,Africa,43,38,1480,1460,0,1,FIFA World Cup qualification,Douala,Cameroon,FALSE,No,Lose
+2022-03-25,Congo DR,Morocco,Africa,Africa,24,66,1369,1547,1,1,FIFA World Cup qualification,Kinshasa,Congo DR,FALSE,No,Draw
+2022-03-25,Egypt,Senegal,Africa,Africa,18,34,1497,1587,1,0,FIFA World Cup qualification,Cairo,Egypt,FALSE,No,Win
+2022-03-25,Ghana,Nigeria,Africa,Africa,32,61,1381,1509,0,0,FIFA World Cup qualification,Kumasi,Ghana,FALSE,No,Draw
+2022-03-25,Mali,Tunisia,Africa,Africa,36,48,1446,1489,0,1,FIFA World Cup qualification,Bamako,Mali,FALSE,No,Lose
+2022-03-25,Argentina,Venezuela,South America,South America,58,4,1766,1411,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE,No,Win
+2022-03-25,Andorra,St. Kitts and Nevis,Europe,North America,139,155,1030,1077,1,0,Friendly,Andorra la Vella,Andorra,FALSE,No,Win
+2022-03-25,Bosnia and Herzegovina,Georgia,Europe,Europe,86,59,1391,1269,0,1,Friendly,Zenica,Bosnia and Herzegovina,FALSE,No,Lose
+2022-03-25,Cabo Verde,Liechtenstein,Africa,Europe,191,73,1336,899,6,0,Friendly,San Pedro del Pinatar,Spain,TRUE,No,Win
+2022-03-25,Comoros,Ethiopia,Africa,Africa,138,131,1126,1081,2,1,Friendly,Moroni,Comoros,FALSE,No,Win
+2022-03-25,Congo,Zambia,Africa,Africa,88,97,1221,1264,1,3,Friendly,Antalya,Turkey,TRUE,No,Lose
+2022-03-25,France,Côte d'Ivoire,Europe,Africa,51,3,1786,1439,2,1,Friendly,Marseille,France,FALSE,No,Win
+2022-03-25,Latvia,Kuwait,Europe,Asia,143,135,1100,1065,1,1,Friendly,Ta' Qali,Malta,TRUE,No,Draw
+2022-03-25,Luxembourg,Northern Ireland,Europe,Europe,54,93,1236,1424,1,3,Friendly,Luxembourg,Luxembourg,FALSE,No,Lose
+2022-03-25,Malta,Azerbaijan,Europe,Europe,121,174,958,1139,1,0,Friendly,Ta' Qali,Malta,FALSE,No,Win
+2022-03-25,Norway,Slovakia,Europe,Europe,46,45,1455,1455,2,0,Friendly,Oslo,Norway,FALSE,No,Win
+2022-03-25,Romania,Greece,Europe,Europe,55,47,1453,1421,0,1,Friendly,Bucharest,Romania,FALSE,No,Lose
+2022-03-25,San Marino,Lithuania,Europe,Europe,137,210,780,1091,1,2,Friendly,Serravalle,San Marino,FALSE,No,Lose
+2022-03-25,South Africa,Guinea,Africa,Africa,81,68,1358,1292,0,0,Friendly,Kortrijk,Belgium,TRUE,No,Draw
+2022-03-25,Tajikistan,Uganda,Asia,Africa,84,115,1152,1279,1,1,Navruz Cup,Namangan,Uzbekistan,TRUE,Yes,Lose
+2022-03-25,Trinidad and Tobago,Barbados,South America,North America,163,101,1205,995,9,0,Friendly,Port of Spain,Trinidad and Tobago,FALSE,No,Win
+2022-03-25,Uzbekistan,Kyrgyz Republic,Asia,Asia,96,85,1277,1228,3,1,Navruz Cup,Namangan,Uzbekistan,FALSE,No,Win
+2022-03-26,Angola,Guinea-Bissau,Africa,Africa,113,127,1131,1158,3,2,Friendly,Óbidos,Portugal,TRUE,No,Win
+2022-03-26,Bahrain,Burundi,Asia,Africa,141,89,1263,1075,1,0,Friendly,Arad,IR Iran,TRUE,No,Win
+2022-03-26,Belarus,India,Europe,Asia,104,94,1233,1182,3,0,Friendly,Isa Town,Bahrain,TRUE,No,Win
+2022-03-26,Central African Republic,Sudan,Africa,Africa,133,130,1127,1118,0,0,Friendly,Dar es Salaam,Tanzania,TRUE,No,Draw
+2022-03-26,Croatia,Slovenia,Europe,Europe,64,15,1620,1375,1,1,Friendly,Al Rayyan,Qatar,TRUE,No,Draw
+2022-03-26,England,Switzerland,Europe,Europe,14,5,1755,1642,2,1,Friendly,London,England,FALSE,No,Win
+2022-03-26,Finland,Iceland,Europe,Europe,60,57,1411,1382,1,1,Friendly,Murcia,Spain,TRUE,No,Draw
+2022-03-26,Germany,Israel,Europe,Europe,77,11,1648,1306,2,0,Friendly,Sinsheim,Germany,FALSE,No,Win
+2022-03-26,Gibraltar,Faroe Islands,Europe,Europe,124,203,853,1136,0,0,Friendly,Gibraltar,Gibraltar,FALSE,No,Draw
+2022-03-26,Libya,Niger,Africa,Africa,114,118,1149,1158,2,1,Friendly,Nouakchott,Mauritania,TRUE,No,Win
+2022-03-26,Mauritania,Mozambique,Africa,Africa,117,116,1152,1151,2,1,Friendly,Nouakchott,Mauritania,FALSE,No,Win
+2022-03-26,Netherlands,Denmark,Europe,Europe,9,10,1653,1654,4,2,Friendly,Amsterdam,Netherlands,FALSE,No,Win
+2022-03-26,Qatar,Bulgaria,Asia,Europe,71,52,1437,1345,2,1,Friendly,Al Rayyan,Qatar,FALSE,No,Win
+2022-03-26,Republic of Ireland,Belgium,Europe,Europe,1,49,1444,1828,2,2,Friendly,Dublin,Republic of Ireland,FALSE,No,Draw
+2022-03-26,Singapore,Malaysia,Asia,Asia,154,161,1000,1034,2,1,Friendly,Kallang,Singapore,FALSE,No,Win
+2022-03-26,Spain,Albania,Europe,Europe,65,7,1704,1374,2,1,Friendly,Barcelona,Spain,FALSE,No,Win
+2022-03-27,El Salvador,Costa Rica,North America,North America,42,70,1346,1464,1,2,FIFA World Cup qualification,San Salvador,El Salvador,FALSE,No,Lose
+2022-03-27,Canada,Jamaica,North America,North America,62,33,1497,1378,4,0,FIFA World Cup qualification,Toronto,Canada,FALSE,No,Win
+2022-03-27,Honduras,Mexico,North America,North America,12,78,1303,1647,0,1,FIFA World Cup qualification,San Pedro Sula,Honduras,FALSE,No,Lose
+2022-03-27,USA,Panama,North America,North America,63,13,1643,1375,5,1,FIFA World Cup qualification,Orlando,USA,FALSE,No,Win
+2022-03-27,New Zealand,Tahiti,Oceania,Oceania,159,111,1161,1014,1,0,FIFA World Cup qualification,Doha,Qatar,TRUE,No,Win
+2022-03-27,Solomon Islands,Papua New Guinea,Oceania,Oceania,165,142,1072,990,3,2,FIFA World Cup qualification,Doha,Qatar,TRUE,No,Win
+2022-03-27,Barbados,Guyana,North America,South America,175,163,995,958,0,5,Friendly,Port of Spain,Trinidad and Tobago,TRUE,No,Lose
+2022-03-27,Belize,Cuba,North America,North America,179,170,967,948,0,3,Friendly,Belmopan,Belize,FALSE,No,Lose
+2022-03-27,Benin,Zambia,Africa,Africa,88,83,1282,1264,2,1,Friendly,Antalya,Turkey,TRUE,No,Win
+2022-03-27,Guatemala,Haiti,North America,North America,87,123,1138,1268,2,1,Friendly,Fort Lauderdale,USA,TRUE,No,Win
+2022-03-27,Laos,Brunei Darussalam,Asia,Asia,188,187,904,903,3,2,Friendly,Vientiane,Laos,FALSE,No,Win
+2022-03-27,Liberia,Sierra Leone,Africa,Africa,107,145,1058,1173,0,1,Friendly,Antalya,Turkey,TRUE,No,Lose
+2022-03-27,Thailand,Suriname,Asia,South America,140,112,1160,1077,1,0,Friendly,Pathum Thani,Thailand,FALSE,No,Win
+2022-03-27,South Sudan,Djibouti,Africa,Africa,192,168,977,896,1,0,African Cup of Nations qualification,Entebbe,Uganda,TRUE,No,Win
+2022-03-27,Lesotho,Seychelles,Africa,Africa,196,146,1057,870,3,1,African Cup of Nations qualification,Soweto,South Africa,TRUE,No,Win
+2022-03-27,Eswatini,Somalia,Africa,Africa,194,147,1054,873,2,1,African Cup of Nations qualification,Mbombela,South Africa,TRUE,No,Win
+2022-03-27,Mauritius,São Tomé and Príncipe,Africa,Africa,189,176,955,903,3,3,African Cup of Nations qualification,Belle Vue Harel,Mauritius,FALSE,No,Draw
+2022-03-28,Andorra,Grenada,Europe,North America,169,155,1030,974,1,0,Friendly,Andorra la Vella,Andorra,FALSE,No,Win
+2022-03-28,Cabo Verde,San Marino,Africa,Europe,210,73,1336,780,2,0,Friendly,San Pedro del Pinatar,Spain,TRUE,No,Win
+2022-03-28,Montenegro,Greece,Europe,Europe,55,72,1342,1421,1,0,Friendly,Podgorica,Montenegro,FALSE,No,Win
+2022-03-28,Vanuatu,Fiji,Oceania,Oceania,162,164,995,996,1,2,Friendly,Doha,Qatar,TRUE,No,Lose
+2022-03-29,Algeria,Cameroon,Africa,Africa,38,43,1460,1480,1,2,FIFA World Cup qualification,Blida,Algeria,FALSE,No,Lose
+2022-03-29,Morocco,Congo DR,Africa,Africa,66,24,1547,1369,4,1,FIFA World Cup qualification,Casablanca,Morocco,FALSE,No,Win
+2022-03-29,Nigeria,Ghana,Africa,Africa,61,32,1509,1381,1,1,FIFA World Cup qualification,Abuja,Nigeria,FALSE,No,Draw
+2022-03-29,Senegal,Egypt,Africa,Africa,34,18,1587,1497,1,0,FIFA World Cup qualification,Diamniadio,Senegal,FALSE,Yes,Win
+2022-03-29,Tunisia,Mali,Africa,Africa,48,36,1489,1446,0,0,FIFA World Cup qualification,Tunis,Tunisia,FALSE,No,Draw
+2022-03-29,IR Iran,Lebanon,Asia,Asia,95,21,1572,1228,2,0,FIFA World Cup qualification,Mashhad,IR Iran,FALSE,No,Win
+2022-03-29,Syria,Iraq,Asia,Asia,74,91,1251,1325,1,1,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE,No,Draw
+2022-03-29,United Arab Emirates,Korea Republic,Asia,Asia,29,69,1353,1522,1,0,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE,No,Win
+2022-03-29,Japan,Vietnam,Asia,Asia,98,23,1549,1218,1,1,FIFA World Cup qualification,Saitama,Japan,FALSE,No,Draw
+2022-03-29,Oman,China PR,Asia,Asia,75,79,1301,1313,2,0,FIFA World Cup qualification,Muscat,Oman,FALSE,No,Win
+2022-03-29,Saudi Arabia,Australia,Asia,Oceania,37,53,1433,1486,1,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,FALSE,No,Win
+2022-03-29,Ecuador,Argentina,South America,South America,4,44,1458,1766,1,1,FIFA World Cup qualification,Guayaquil,Ecuador,FALSE,No,Draw
+2022-03-29,Peru,Paraguay,South America,South America,50,22,1563,1440,2,0,FIFA World Cup qualification,Lima,Peru,FALSE,No,Win
+2022-03-29,Bolivia,Brazil,South America,South America,2,76,1308,1823,0,4,FIFA World Cup qualification,La Paz,Bolivia,FALSE,No,Lose
+2022-03-29,Venezuela,Colombia,South America,South America,19,58,1411,1585,0,1,FIFA World Cup qualification,Guayana,Venezuela,FALSE,No,Lose
+2022-03-29,Chile,Uruguay,South America,South America,16,26,1543,1614,0,2,FIFA World Cup qualification,Santiago,Chile,FALSE,No,Lose
+2022-03-29,Poland,Sweden,Europe,Europe,17,28,1530,1588,2,0,FIFA World Cup qualification,Chorzów,Poland,FALSE,No,Win
+2022-03-29,Portugal,North Macedonia,Europe,Europe,67,8,1660,1367,2,0,FIFA World Cup qualification,Porto,Portugal,FALSE,No,Win
+2022-03-29,Albania,Georgia,Europe,Europe,86,65,1374,1269,0,0,Friendly,Tirana,Albania,FALSE,No,Draw
+2022-03-29,Angola,Equatorial Guinea,Africa,Africa,99,127,1131,1210,0,0,Friendly,Óbidos,Portugal,TRUE,No,Draw
+2022-03-29,Austria,Scotland,Europe,Europe,40,30,1511,1471,2,2,Friendly,Vienna,Austria,FALSE,No,Draw
+2022-03-29,Azerbaijan,Latvia,Europe,Europe,135,121,1139,1100,0,1,Friendly,Ta' Qali,Malta,TRUE,No,Lose
+2022-03-29,Bahrain,Belarus,Asia,Europe,94,89,1263,1233,0,1,Friendly,Riffa,Bahrain,FALSE,No,Lose
+2022-03-29,Bangladesh,Mongolia,Asia,Asia,184,186,907,916,0,0,Friendly,Sylhet,Bangladesh,FALSE,No,Draw
+2022-03-29,Belgium,Burkina Faso,Europe,Africa,56,1,1828,1418,3,0,Friendly,Anderlecht,Belgium,FALSE,No,Win
+2022-03-29,Bosnia and Herzegovina,Luxembourg,Europe,Europe,93,59,1391,1236,1,0,Friendly,Zenica,Bosnia and Herzegovina,FALSE,No,Win
+2022-03-29,Congo,Sierra Leone,Africa,Africa,107,97,1221,1173,1,2,Friendly,Antalya,Turkey,TRUE,No,Lose
+2022-03-29,Croatia,Bulgaria,Europe,Europe,71,15,1620,1345,2,1,Friendly,Al Rayyan,Qatar,TRUE,No,Win
+2022-03-29,Denmark,Serbia,Europe,Europe,25,9,1654,1547,3,0,Friendly,Copenhagen,Denmark,FALSE,No,Win
+2022-03-29,England,Côte d'Ivoire,Europe,Africa,51,5,1755,1439,3,0,Friendly,London,England,FALSE,No,Win
+2022-03-29,Faroe Islands,Liechtenstein,Europe,Europe,191,124,1136,899,1,0,Friendly,San Pedro del Pinatar,Spain,TRUE,No,Win
+2022-03-29,Finland,Slovakia,Europe,Europe,46,57,1411,1455,0,2,Friendly,Murcia,Spain,TRUE,No,Lose
+2022-03-29,France,South Africa,Europe,Africa,68,3,1786,1358,5,0,Friendly,Villeneuve D'Ascq,Algeria,TRUE,No,Win
+2022-03-29,Israel,Romania,Europe,Europe,47,77,1306,1453,2,2,Friendly,Netanya,Israel,FALSE,No,Draw
+2022-03-29,Liberia,Burundi,Africa,Africa,141,145,1058,1075,1,2,Friendly,Antalya,Turkey,TRUE,No,Lose
+2022-03-29,Malta,Kuwait,Europe,Asia,143,174,958,1065,2,0,Friendly,Ta' Qali,Malta,FALSE,No,Win
+2022-03-29,Mauritania,Libya,Africa,Africa,118,116,1152,1149,2,0,Friendly,Nouakchott,Mauritania,FALSE,No,Win
+2022-03-29,Netherlands,Germany,Europe,Europe,11,10,1653,1648,1,1,Friendly,Amsterdam,Netherlands,FALSE,No,Draw
+2022-03-29,Northern Ireland,Hungary,Europe,Europe,41,54,1424,1465,0,1,Friendly,Belfast,Northern Ireland,FALSE,No,Lose
+2022-03-29,Norway,Armenia,Europe,Europe,92,45,1455,1242,9,0,Friendly,Oslo,Norway,FALSE,No,Win
+2022-03-29,Qatar,Slovenia,Asia,Europe,64,52,1437,1375,0,0,Friendly,Al Rayyan,Qatar,FALSE,No,Draw
+2022-03-29,Republic of Ireland,Lithuania,Europe,Europe,137,49,1444,1091,1,0,Friendly,Dublin,Republic of Ireland,FALSE,No,Win
+2022-03-29,Singapore,Philippines,Asia,Asia,129,161,1000,1129,2,0,Friendly,Kallang,Singapore,FALSE,No,Win
+2022-03-29,Spain,Iceland,Europe,Europe,60,7,1704,1382,5,0,Friendly,La Coruña,Spain,FALSE,No,Win
+2022-03-29,Switzerland,Kosovo,Europe,Europe,109,14,1642,1163,1,1,Friendly,Zürich,Switzerland,FALSE,No,Draw
+2022-03-29,Tanzania,Sudan,Africa,Africa,133,132,1118,1118,1,1,Friendly,Dar es Salaam,Tanzania,FALSE,No,Draw
+2022-03-29,Togo,Benin,Africa,Africa,83,126,1133,1282,1,1,Friendly,Antalya,Turkey,TRUE,No,Draw
+2022-03-29,Trinidad and Tobago,Guyana,South America,South America,175,101,1205,958,1,1,Friendly,Port of Spain,Trinidad and Tobago,FALSE,No,Draw
+2022-03-29,Turkey,Italy,Europe,Europe,6,39,1472,1740,2,3,Friendly,Konya,Turkey,FALSE,No,Lose
+2022-03-29,Wales,Czech Republic,Europe,Europe,31,20,1578,1510,1,1,Friendly,Cardiff,Wales,FALSE,No,Draw
+2022-03-29,Tajikistan,Kyrgyz Republic,Asia,Asia,96,115,1152,1228,1,0,Navruz Cup,Namangan,Uzbekistan,TRUE,No,Win
+2022-03-29,Uzbekistan,Uganda,Asia,Africa,84,85,1277,1279,4,2,Navruz Cup,Namangan,Uzbekistan,FALSE,No,Win
+2022-03-29,Cyprus,Estonia,Europe,Europe,106,105,1178,1176,2,0,UEFA Nations League,Larnaca,Cyprus,FALSE,No,Win
+2022-03-29,Kazakhstan,Moldova,Europe,Europe,181,120,1140,926,0,1,UEFA Nations League,Nur-Sultan,Kazakhstan,FALSE,Yes,Win
+2022-03-29,Gambia,Chad,Africa,Africa,180,125,1135,935,2,2,African Cup of Nations qualification,Agadir,Morocco,TRUE,No,Draw
+2022-03-30,Mexico,El Salvador,North America,North America,70,12,1647,1346,2,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE,No,Win
+2022-03-30,Costa Rica,USA,North America,North America,13,42,1464,1643,2,0,FIFA World Cup qualification,San José,Costa Rica,FALSE,No,Win
+2022-03-30,Panama,Canada,North America,North America,33,63,1375,1497,1,0,FIFA World Cup qualification,Panama City,Panama,FALSE,No,Win
+2022-03-30,Jamaica,Honduras,North America,North America,78,62,1378,1303,2,1,FIFA World Cup qualification,Kingston,Jamaica,FALSE,No,Win
+2022-03-30,Solomon Islands,New Zealand,Oceania,Oceania,111,142,1072,1161,0,5,FIFA World Cup qualification,Doha,Qatar,TRUE,No,Lose
+2022-04-24,El Salvador,Guatemala,North America,North America,118,74,1331,1147,0,4,Friendly,San Jose,USA,TRUE,No,Lose
+2022-04-27,Mexico,Guatemala,North America,North America,118,9,1658,1147,0,0,Friendly,Orlando,USA,TRUE,No,Draw
+2022-05-12,Bahamas,Turks and Caicos Islands,North America,North America,206,201,858,839,4,2,Friendly,Nassau,Bahamas,FALSE,No,Win
+2022-05-12,Dominica,St. Vincent and the Grenadines,North America,North America,175,184,916,960,2,1,Friendly,Roseau,Dominica,FALSE,No,Win
+2022-05-14,Bahamas,Turks and Caicos Islands,North America,North America,206,201,858,839,1,2,Friendly,Nassau,Bahamas,FALSE,No,Lose
+2022-05-15,Dominica,St. Vincent and the Grenadines,North America,North America,175,184,916,960,3,1,Friendly,Roseau,Dominica,FALSE,No,Win
+2022-05-24,Mozambique,Eswatini,Africa,Africa,143,119,1146,1070,0,1,Friendly,Maputo,Mozambique,FALSE,No,Lose
+2022-05-24,Thailand,Bahrain,Asia,Asia,89,111,1167,1262,3,1,Friendly,Bangkok,Thailand,FALSE,No,Win
+2022-05-27,Bahrain,Myanmar,Asia,Asia,152,89,1262,1044,2,0,Friendly,Pathum Thani,Thailand,TRUE,No,Win
+2022-05-27,Malaysia,Brunei Darussalam,Asia,Asia,191,154,1035,898,4,0,Friendly,Kuala Lumpur,Malaysia,FALSE,No,Win
+2022-05-27,Thailand,Turkmenistan,Asia,Asia,134,111,1167,1117,1,0,Friendly,Sisaket,Thailand,FALSE,No,Win
+2022-05-28,Ethiopia,Lesotho,Africa,Africa,145,140,1076,1061,1,1,Friendly,Adama,Ethiopia,FALSE,No,Draw
+2022-05-28,India,Jordan,Asia,Asia,91,106,1174,1259,0,2,Friendly,Doha,Qatar,TRUE,No,Lose
+2022-05-28,Mexico,Nigeria,North America,Africa,30,9,1658,1504,2,1,Friendly,Arlington,USA,TRUE,No,Win
+2022-05-29,United Arab Emirates,Gambia,Asia,Africa,123,68,1356,1138,1,1,Friendly,Dubai,United Arab Emirates,FALSE,No,Draw
+2022-05-30,Ethiopia,Lesotho,Africa,Africa,145,140,1076,1061,1,1,Friendly,Adama,Ethiopia,FALSE,No,Draw
+2022-05-30,Trinidad and Tobago,St. Lucia,South America,North America,176,103,1203,953,1,0,Friendly,San Fernando,Trinidad and Tobago,FALSE,No,Win
+2022-05-31,Thailand,Bahrain,Asia,Asia,89,111,1167,1262,1,2,Friendly,Pathum Thani,Thailand,FALSE,No,Lose
+2022-06-01,Italy,Argentina,Europe,South America,4,6,1723,1765,0,3,CONMEBOL–UEFA Cup of Champions,Paris,France,TRUE,No,Lose
+2022-06-01,Scotland,Ukraine,Europe,Europe,27,39,1472,1535,1,3,FIFA World Cup qualification,Glasgow,Scotland,FALSE,No,Lose
+2022-06-01,Angola,Central African Republic,Africa,Africa,131,126,1131,1122,2,1,African Cup of Nations qualification,Luanda,Angola,FALSE,No,Win
+2022-06-01,Ghana,Madagascar,Africa,Africa,102,60,1387,1205,3,0,African Cup of Nations qualification,Cape Coast,Ghana,FALSE,No,Win
+2022-06-01,Libya,Botswana,Africa,Africa,148,117,1149,1051,1,0,African Cup of Nations qualification,Benghazi,Libya,FALSE,No,Win
+2022-06-01,Poland,Wales,Europe,Europe,18,26,1544,1588,2,1,UEFA Nations League,Wrocław,Poland,FALSE,No,Win
+2022-06-01,Australia,Jordan,Oceania,Asia,91,42,1462,1259,2,1,Friendly,Al Wakrah,Qatar,TRUE,No,Win
+2022-06-01,Indonesia,Bangladesh,Asia,Asia,188,159,1001,903,0,0,Friendly,Soreang,Indonesia,FALSE,No,Draw
+2022-06-01,Malta,Venezuela,Europe,South America,58,169,971,1398,0,1,Friendly,Ta' Qali,Malta,FALSE,No,Lose
+2022-06-01,Kuwait,Singapore,Asia,Asia,158,146,1059,1012,0,0,Friendly,Abu Dhabi,United Arab Emirates,TRUE,No,Draw
+2022-06-01,Malaysia,Hong Kong,Asia,Asia,147,154,1035,1053,2,0,Friendly,Kuala Lumpur,Malaysia,FALSE,No,Win
+2022-06-01,Syria,Tajikistan,Asia,Asia,114,88,1265,1159,1,0,Friendly,Dubai,United Arab Emirates,TRUE,No,Win
+2022-06-01,USA,Morocco,North America,Africa,24,15,1633,1551,3,0,Friendly,Cincinnati,USA,FALSE,No,Win
+2022-06-01,Vietnam,Afghanistan,Asia,Asia,150,96,1215,1049,2,0,Friendly,Ho Chi Minh City,Vietnam,FALSE,No,Win
+2022-06-02,Tunisia,Equatorial Guinea,Africa,Africa,99,35,1499,1210,4,0,African Cup of Nations qualification,Radès,Tunisia,FALSE,No,Win
+2022-06-02,Mozambique,Rwanda,Africa,Africa,136,119,1146,1097,1,1,African Cup of Nations qualification,Johannesburg,South Africa,TRUE,No,Draw
+2022-06-02,Panama,Costa Rica,North America,North America,31,61,1382,1503,2,0,CONCACAF Nations League,Panama City,Panama,FALSE,No,Win
+2022-06-02,Barbados,Antigua and Barbuda,North America,North America,127,163,995,1131,0,1,CONCACAF Nations League,Gros Islet,St. Lucia,TRUE,No,Lose
+2022-06-02,Belize,Dominican Republic,North America,North America,155,173,962,1029,0,2,CONCACAF Nations League,Belmopan,Belize,FALSE,No,Lose
+2022-06-02,Anguilla,Dominica,North America,North America,184,210,792,916,0,0,CONCACAF Nations League,The Valley,Anguilla,FALSE,No,Draw
+2022-06-02,Czech Republic,Switzerland,Europe,Europe,14,33,1500,1635,2,1,UEFA Nations League,Prague,Czech Republic,FALSE,No,Win
+2022-06-02,Spain,Portugal,Europe,Europe,8,7,1709,1674,1,1,UEFA Nations League,Sevilla,Spain,FALSE,No,Draw
+2022-06-02,Israel,Iceland,Europe,Europe,63,76,1305,1380,2,2,UEFA Nations League,Haifa,Israel,FALSE,No,Draw
+2022-06-02,Serbia,Norway,Europe,Europe,41,25,1547,1463,0,1,UEFA Nations League,Belgrade,Serbia,FALSE,No,Lose
+2022-06-02,Slovenia,Sweden,Europe,Europe,19,65,1378,1584,0,2,UEFA Nations League,Ljubljana,Slovenia,FALSE,No,Lose
+2022-06-02,Northern Ireland,Greece,Europe,Europe,55,54,1423,1421,0,1,UEFA Nations League,Belfast,Northern Ireland,FALSE,No,Lose
+2022-06-02,Cyprus,Kosovo,Europe,Europe,107,105,1186,1173,0,2,UEFA Nations League,Larnaca,Cyprus,FALSE,No,Lose
+2022-06-02,Georgia,Gibraltar,Europe,Europe,203,85,1276,857,4,0,UEFA Nations League,Tbilisi,Georgia,FALSE,No,Win
+2022-06-02,Bulgaria,North Macedonia,Europe,Europe,62,73,1338,1381,1,1,UEFA Nations League,Razgrad,Bulgaria,FALSE,No,Draw
+2022-06-02,Estonia,San Marino,Europe,Europe,211,110,1169,776,2,0,UEFA Nations League,Tallinn,Estonia,FALSE,No,Win
+2022-06-02,Cambodia,Timor-Leste,Asia,Asia,198,171,966,865,2,1,Friendly,Phnom Penh,Cambodia,FALSE,No,Win
+2022-06-02,Ecuador,Nigeria,South America,Africa,30,46,1452,1504,1,0,Friendly,Harrison,USA,TRUE,No,Win
+2022-06-02,Japan,Paraguay,Asia,South America,50,23,1553,1443,4,1,Friendly,Sapporo,Japan,FALSE,No,Win
+2022-06-02,Korea Republic,Brazil,Asia,South America,1,29,1519,1832,1,5,Friendly,Seoul,Korea Republic,FALSE,No,Lose
+2022-06-02,Mexico,Uruguay,North America,South America,13,9,1658,1635,0,3,Friendly,Glendale,USA,TRUE,No,Lose
+2022-06-03,Togo,Eswatini,Africa,Africa,143,121,1140,1070,2,2,African Cup of Nations qualification,Lomé,Togo,FALSE,No,Draw
+2022-06-03,Burkina Faso,Cabo Verde,Africa,Africa,71,56,1409,1339,2,0,African Cup of Nations qualification,Marrakech,Morocco,TRUE,No,Win
+2022-06-03,Comoros,Lesotho,Africa,Africa,145,128,1130,1061,2,0,African Cup of Nations qualification,Moroni,Comoros,FALSE,No,Win
+2022-06-03,Côte d'Ivoire,Zambia,Africa,Africa,87,53,1435,1267,3,1,African Cup of Nations qualification,Yamoussoukro,Côte d'Ivoire,FALSE,No,Win
+2022-06-03,Curaçao,Honduras,North America,North America,82,79,1298,1289,0,1,CONCACAF Nations League,Willemstad,Curaçao,FALSE,No,Lose
+2022-06-03,Bahamas,St. Vincent and the Grenadines,North America,North America,175,201,858,960,1,0,CONCACAF Nations League,Nassau,Bahamas,FALSE,No,Win
+2022-06-03,Nicaragua,Trinidad and Tobago,North America,South America,103,144,1062,1203,2,1,CONCACAF Nations League,Managua,Nicaragua,FALSE,No,Win
+2022-06-03,British Virgin Islands,Cayman Islands,North America,North America,195,209,812,873,1,1,CONCACAF Nations League,Tortola,British Virgin Islands,FALSE,No,Draw
+2022-06-03,Croatia,Austria,Europe,Europe,34,16,1621,1500,0,3,UEFA Nations League,Osijek,Croatia,FALSE,No,Lose
+2022-06-03,France,Denmark,Europe,Europe,11,3,1789,1653,1,2,UEFA Nations League,Paris,France,FALSE,No,Lose
+2022-06-03,Belgium,Netherlands,Europe,Europe,10,2,1827,1658,1,4,UEFA Nations League,Brussels,Belgium,FALSE,No,Lose
+2022-06-03,Kazakhstan,Azerbaijan,Europe,Europe,129,125,1134,1127,2,0,UEFA Nations League,Nur-Sultan,Kazakhstan,FALSE,No,Win
+2022-06-03,Belarus,Slovakia,Europe,Europe,45,93,1243,1454,0,1,UEFA Nations League,Novi Sad,Serbia,TRUE,No,Lose
+2022-06-03,Liechtenstein,Moldova,Europe,Europe,180,192,895,932,0,2,UEFA Nations League,Vaduz,Liechtenstein,FALSE,No,Lose
+2022-06-03,Latvia,Andorra,Europe,Europe,153,135,1105,1040,3,0,UEFA Nations League,Riga,Latvia,FALSE,No,Win
+2022-06-03,Nepal,Oman,Asia,Asia,75,168,978,1324,0,2,Friendly,Doha,Qatar,TRUE,No,Lose
+2022-06-04,Namibia,Burundi,Africa,Africa,139,112,1162,1080,1,1,African Cup of Nations qualification,Johannesburg,South Africa,TRUE,No,Draw
+2022-06-04,Niger,Tanzania,Africa,Africa,130,116,1153,1123,1,1,African Cup of Nations qualification,Cotonou,Benin,TRUE,No,Draw
+2022-06-04,Algeria,Uganda,Africa,Africa,86,44,1461,1275,2,0,African Cup of Nations qualification,Algiers,Algeria,FALSE,No,Win
+2022-06-04,Gambia,South Sudan,Africa,Africa,161,123,1138,998,1,0,African Cup of Nations qualification,Thiès,Senegal,TRUE,No,Win
+2022-06-04,Mali,Congo,Africa,Africa,98,52,1436,1211,4,0,African Cup of Nations qualification,Bamako,Mali,FALSE,No,Win
+2022-06-04,Mauritania,Sudan,Africa,Africa,132,113,1162,1118,3,0,African Cup of Nations qualification,Nouakchott,Mauritania,FALSE,No,Win
+2022-06-04,Congo DR,Gabon,Africa,Africa,81,67,1365,1290,0,1,African Cup of Nations qualification,Kinshasa,Congo DR,FALSE,No,Lose
+2022-06-04,Senegal,Benin,Africa,Africa,84,20,1584,1284,3,1,African Cup of Nations qualification,Diamniadio,Senegal,FALSE,No,Win
+2022-06-04,Suriname,Jamaica,South America,North America,64,141,1073,1378,1,1,CONCACAF Nations League,Paramaribo,Suriname,FALSE,No,Draw
+2022-06-04,El Salvador,Grenada,North America,North America,170,74,1331,968,3,1,CONCACAF Nations League,San Salvador,El Salvador,FALSE,No,Win
+2022-06-04,Bermuda,Haiti,North America,North America,90,167,982,1261,0,0,CONCACAF Nations League,Devonshire Parish,Bermuda,FALSE,No,Draw
+2022-06-04,Montserrat,Guyana,North America,South America,174,178,950,961,1,2,CONCACAF Nations League,Santo Domingo,Dominican Republic,TRUE,No,Lose
+2022-06-04,Hungary,England,Europe,Europe,5,40,1466,1761,1,0,UEFA Nations League,Budapest,Hungary,FALSE,No,Win
+2022-06-04,Italy,Germany,Europe,Europe,12,6,1723,1650,1,1,UEFA Nations League,Bologna,Italy,FALSE,No,Draw
+2022-06-04,Armenia,Republic of Ireland,Europe,Europe,47,92,1245,1449,1,0,UEFA Nations League,Yerevan,Armenia,FALSE,No,Win
+2022-06-04,Finland,Bosnia and Herzegovina,Europe,Europe,59,57,1406,1388,1,1,UEFA Nations League,Helsinki,Finland,FALSE,No,Draw
+2022-06-04,Montenegro,Romania,Europe,Europe,48,70,1342,1446,2,0,UEFA Nations League,Podgorica,Montenegro,FALSE,No,Win
+2022-06-04,Lithuania,Luxembourg,Europe,Europe,94,138,1092,1229,0,2,UEFA Nations League,Vilnius,Lithuania,FALSE,No,Lose
+2022-06-04,Turkey,Faroe Islands,Europe,Europe,124,43,1461,1137,4,0,UEFA Nations League,Istanbul,Turkey,FALSE,No,Win
+2022-06-05,Wales,Ukraine,Europe,Europe,27,18,1588,1535,1,0,FIFA World Cup qualification,Cardiff,Wales,FALSE,No,Win
+2022-06-05,Malawi,Ethiopia,Africa,Africa,140,120,1145,1076,2,1,African Cup of Nations qualification,Lilongwe,Malawi,FALSE,No,Win
+2022-06-05,Egypt,Guinea,Africa,Africa,80,32,1500,1293,1,0,African Cup of Nations qualification,Cairo,Egypt,FALSE,No,Win
+2022-06-05,Central African Republic,Ghana,Africa,Africa,60,131,1122,1387,1,1,African Cup of Nations qualification,Luanda,Angola,TRUE,No,Draw
+2022-06-05,Madagascar,Angola,Africa,Africa,126,102,1205,1131,1,1,African Cup of Nations qualification,Antananarivo,Madagascar,FALSE,No,Draw
+2022-06-05,Botswana,Tunisia,Africa,Africa,35,148,1051,1499,0,0,African Cup of Nations qualification,Francistown,Botswana,FALSE,No,Draw
+2022-06-05,Cuba,Barbados,North America,North America,163,177,950,995,3,0,CONCACAF Nations League,Santiago,Cuba,FALSE,No,Win
+2022-06-05,Guatemala,Belize,North America,North America,173,118,1147,962,2,0,CONCACAF Nations League,Guatemala City,Guatemala,FALSE,No,Win
+2022-06-05,Dominica,Anguilla,North America,North America,210,184,916,792,1,1,CONCACAF Nations League,Basseterre,St. Kitts and Nevis,TRUE,No,Draw
+2022-06-05,Portugal,Switzerland,Europe,Europe,14,8,1674,1635,4,0,UEFA Nations League,Lisbon,Portugal,FALSE,No,Win
+2022-06-05,Czech Republic,Spain,Europe,Europe,7,33,1500,1709,2,2,UEFA Nations League,Prague,Czech Republic,FALSE,No,Draw
+2022-06-05,Serbia,Slovenia,Europe,Europe,65,25,1547,1378,4,1,UEFA Nations League,Belgrade,Serbia,FALSE,No,Win
+2022-06-05,Sweden,Norway,Europe,Europe,41,19,1584,1463,1,2,UEFA Nations League,Stockholm,Sweden,FALSE,No,Lose
+2022-06-05,Cyprus,Northern Ireland,Europe,Europe,54,105,1186,1423,0,0,UEFA Nations League,Larnaca,Cyprus,FALSE,No,Draw
+2022-06-05,Kosovo,Greece,Europe,Europe,55,107,1173,1421,0,1,UEFA Nations League,Pristina,Kosovo,FALSE,No,Lose
+2022-06-05,Gibraltar,North Macedonia,Europe,Europe,62,203,857,1381,0,2,UEFA Nations League,Gibraltar,Gibraltar,FALSE,No,Lose
+2022-06-05,Bulgaria,Georgia,Europe,Europe,85,73,1338,1276,2,5,UEFA Nations League,Razgrad,Bulgaria,FALSE,No,Lose
+2022-06-05,San Marino,Malta,Europe,Europe,169,211,776,971,0,2,UEFA Nations League,Serravalle,San Marino,FALSE,No,Lose
+2022-06-05,Argentina,Estonia,South America,Europe,110,4,1765,1169,5,0,Friendly,Pamplona,Spain,TRUE,No,Win
+2022-06-05,Mexico,Ecuador,North America,South America,46,9,1658,1452,0,0,Friendly,Chicago,USA,TRUE,No,Draw
+2022-06-05,Peru,New Zealand,South America,Oceania,101,22,1562,1206,1,0,Friendly,Barcelona,Spain,TRUE,No,Win
+2022-06-05,Saudi Arabia,Colombia,Asia,South America,17,49,1444,1600,0,1,Friendly,Murcia,Spain,TRUE,No,Lose
+2022-06-05,USA,Uruguay,North America,South America,13,15,1633,1635,0,0,Friendly,Kansas City,USA,FALSE,No,Draw
+2022-06-06,Equatorial Guinea,Libya,Africa,Africa,117,99,1210,1149,2,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,FALSE,No,Win
+2022-06-06,Honduras,Curaçao,North America,North America,79,82,1289,1298,1,2,CONCACAF Nations League,San Pedro Sula,Honduras,FALSE,No,Lose
+2022-06-06,St. Vincent and the Grenadines,Nicaragua,North America,North America,144,175,960,1062,2,2,CONCACAF Nations League,Kingstown,St. Vincent and the Grenadines,FALSE,No,Draw
+2022-06-06,Trinidad and Tobago,Bahamas,South America,North America,201,103,1203,858,1,0,CONCACAF Nations League,Port of Spain,Trinidad and Tobago,FALSE,No,Win
+2022-06-06,US Virgin Islands,Turks and Caicos Islands,North America,North America,206,208,816,839,3,2,CONCACAF Nations League,Saint Croix,US Virgin Islands,FALSE,No,Win
+2022-06-06,Cayman Islands,British Virgin Islands,North America,North America,209,195,873,812,1,1,CONCACAF Nations League,George Town,Cayman Islands,FALSE,No,Draw
+2022-06-06,Austria,Denmark,Europe,Europe,11,34,1500,1653,1,2,UEFA Nations League,Vienna,Austria,FALSE,No,Lose
+2022-06-06,Croatia,France,Europe,Europe,3,16,1621,1789,1,1,UEFA Nations League,Split,Croatia,FALSE,No,Draw
+2022-06-06,Iceland,Albania,Europe,Europe,66,63,1380,1371,1,1,UEFA Nations League,Reykjavík,Iceland,FALSE,No,Draw
+2022-06-06,Belarus,Azerbaijan,Europe,Europe,129,93,1243,1127,0,0,UEFA Nations League,Novi Sad,Serbia,TRUE,No,Draw
+2022-06-06,Slovakia,Kazakhstan,Europe,Europe,125,45,1454,1134,0,1,UEFA Nations League,Trnava,Slovakia,FALSE,No,Lose
+2022-06-06,Latvia,Liechtenstein,Europe,Europe,192,135,1105,895,1,0,UEFA Nations League,Riga,Latvia,FALSE,No,Win
+2022-06-06,Andorra,Moldova,Europe,Europe,180,153,1040,932,0,0,UEFA Nations League,Andorra la Vella,Andorra,FALSE,No,Draw
+2022-06-06,Korea Republic,Chile,Asia,South America,28,29,1519,1526,2,0,Friendly,Daejeon,Korea Republic,FALSE,No,Win
+2022-06-06,Japan,Brazil,Asia,South America,1,23,1553,1832,0,1,Friendly,Tokyo,Japan,FALSE,No,Lose
+2022-06-07,Eswatini,Burkina Faso,Africa,Africa,56,143,1070,1409,1,3,African Cup of Nations qualification,Johannesburg,South Africa,TRUE,No,Lose
+2022-06-07,Cabo Verde,Togo,Africa,Africa,121,71,1339,1140,2,0,African Cup of Nations qualification,Marrakech,Morocco,TRUE,No,Win
+2022-06-07,Zambia,Comoros,Africa,Africa,128,87,1267,1130,2,1,African Cup of Nations qualification,Lusaka,Zambia,FALSE,No,Win
+2022-06-07,Senegal,Rwanda,Africa,Africa,136,20,1584,1097,1,0,African Cup of Nations qualification,Diamniadio,Senegal,FALSE,No,Win
+2022-06-07,Jamaica,Suriname,North America,South America,141,64,1378,1073,3,1,CONCACAF Nations League,Kingston,Jamaica,FALSE,No,Win
+2022-06-07,Grenada,El Salvador,North America,North America,74,170,968,1331,2,2,CONCACAF Nations League,St. George's,Grenada,FALSE,No,Draw
+2022-06-07,Guyana,Bermuda,South America,North America,167,174,961,982,2,1,CONCACAF Nations League,Leonora,Guyana,FALSE,No,Win
+2022-06-07,Haiti,Montserrat,North America,North America,178,90,1261,950,3,2,CONCACAF Nations League,Santo Domingo,Dominican Republic,TRUE,No,Win
+2022-06-07,Germany,England,Europe,Europe,5,12,1650,1761,1,1,UEFA Nations League,Munich,Germany,FALSE,No,Draw
+2022-06-07,Italy,Hungary,Europe,Europe,40,6,1723,1466,2,1,UEFA Nations League,Cesena,Italy,FALSE,No,Win
+2022-06-07,Finland,Montenegro,Europe,Europe,70,57,1406,1342,2,0,UEFA Nations League,Helsinki,Finland,FALSE,No,Win
+2022-06-07,Bosnia and Herzegovina,Romania,Europe,Europe,48,59,1388,1446,1,0,UEFA Nations League,Zenica,Bosnia and Herzegovina,FALSE,No,Win
+2022-06-07,Faroe Islands,Luxembourg,Europe,Europe,94,124,1137,1229,0,1,UEFA Nations League,Tórshavn,Faroe Islands,FALSE,No,Lose
+2022-06-07,Lithuania,Turkey,Europe,Europe,43,138,1092,1461,0,6,UEFA Nations League,Vilnius,Lithuania,FALSE,No,Lose
+2022-06-08,Kuwait,Indonesia,Asia,Asia,159,146,1059,1001,1,2,AFC Asian Cup qualification,Kuwait City,Kuwait,FALSE,No,Lose
+2022-06-08,Jordan,Nepal,Asia,Asia,168,91,1259,978,2,0,AFC Asian Cup qualification,Kuwait City,Kuwait,TRUE,No,Win
+2022-06-08,Philippines,Yemen,Asia,Asia,151,133,1117,1046,0,0,AFC Asian Cup qualification,Ulaanbaatar,Mongolia,TRUE,No,Draw
+2022-06-08,Mongolia,Palestine,Asia,Asia,100,186,911,1208,0,1,AFC Asian Cup qualification,Ulaanbaatar,Mongolia,FALSE,No,Lose
+2022-06-08,Thailand,Maldives,Asia,Africa,156,111,1167,1025,3,0,AFC Asian Cup qualification,Namangan,Uzbekistan,TRUE,No,Win
+2022-06-08,Uzbekistan,Sri Lanka,Asia,Asia,205,83,1286,842,3,0,AFC Asian Cup qualification,Namangan,Uzbekistan,FALSE,No,Win
+2022-06-08,Hong Kong,Afghanistan,Asia,Asia,150,147,1053,1049,2,1,AFC Asian Cup qualification,Kolkota,India,TRUE,No,Win
+2022-06-08,India,Cambodia,Asia,Asia,171,106,1174,966,2,0,AFC Asian Cup qualification,Kolkota,India,FALSE,No,Win
+2022-06-08,Bahrain,Bangladesh,Asia,Asia,188,89,1262,903,2,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE,No,Win
+2022-06-08,Malaysia,Turkmenistan,Asia,Asia,134,154,1035,1117,3,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,FALSE,No,Win
+2022-06-08,Tajikistan,Myanmar,Asia,Asia,152,114,1159,1044,4,0,AFC Asian Cup qualification,Bishkek,Kyrgyz Republic,TRUE,No,Win
+2022-06-08,Kyrgyz Republic,Singapore,Asia,Asia,158,95,1218,1012,2,1,AFC Asian Cup qualification,Bishkek,Kyrgyz Republic,FALSE,No,Win
+2022-06-08,Uganda,Niger,Africa,Africa,116,86,1275,1153,1,1,African Cup of Nations qualification,Entebbe,Uganda,FALSE,No,Draw
+2022-06-08,Tanzania,Algeria,Africa,Africa,44,130,1123,1461,0,2,African Cup of Nations qualification,Dar es Salaam,Tanzania,FALSE,No,Lose
+2022-06-08,Congo,Gambia,Africa,Africa,123,98,1211,1138,1,0,African Cup of Nations qualification,Brazzaville,Congo,FALSE,No,Win
+2022-06-08,Gabon,Mauritania,Africa,Africa,113,81,1290,1162,0,0,African Cup of Nations qualification,Franceville,Gabon,FALSE,No,Draw
+2022-06-08,Sudan,Congo DR,Africa,Africa,67,132,1118,1365,2,1,African Cup of Nations qualification,Omdurman,Sudan,FALSE,No,Win
+2022-06-08,Benin,Mozambique,Africa,Africa,119,84,1284,1146,0,1,African Cup of Nations qualification,Cotonou,Benin,FALSE,No,Lose
+2022-06-08,Wales,Netherlands,Europe,Europe,10,18,1588,1658,1,2,UEFA Nations League,Cardiff,Wales,FALSE,No,Lose
+2022-06-08,Belgium,Poland,Europe,Europe,26,2,1827,1544,6,1,UEFA Nations League,Brussels,Belgium,FALSE,No,Win
+2022-06-08,Republic of Ireland,Ukraine,Europe,Europe,27,47,1449,1535,0,1,UEFA Nations League,Dublin,Republic of Ireland,FALSE,No,Lose
+2022-06-08,Scotland,Armenia,Europe,Europe,92,39,1472,1245,2,0,UEFA Nations League,Glasgow,Scotland,FALSE,No,Win
+2022-06-09,Guinea-Bissau,São Tomé and Príncipe,Africa,Africa,183,115,1158,917,5,1,African Cup of Nations qualification,Agadir,Morocco,TRUE,No,Win
+2022-06-09,Nigeria,Sierra Leone,Africa,Africa,108,30,1504,1173,2,1,African Cup of Nations qualification,Abuja,Nigeria,FALSE,No,Win
+2022-06-09,Burundi,Cameroon,Africa,Africa,37,139,1080,1480,0,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,TRUE,No,Lose
+2022-06-09,Ethiopia,Egypt,Africa,Africa,32,140,1076,1500,2,0,African Cup of Nations qualification,Lilongwe,Malawi,TRUE,No,Win
+2022-06-09,Guinea,Malawi,Africa,Africa,120,80,1293,1145,1,0,African Cup of Nations qualification,Conakry,Guinea,FALSE,No,Win
+2022-06-09,South Sudan,Mali,Africa,Africa,52,161,998,1436,1,3,African Cup of Nations qualification,Entebbe,Uganda,TRUE,No,Lose
+2022-06-09,Lesotho,Côte d'Ivoire,Africa,Africa,53,145,1061,1435,0,0,African Cup of Nations qualification,Soweto,South Africa,TRUE,No,Draw
+2022-06-09,Morocco,South Africa,Africa,Africa,69,24,1551,1356,2,1,African Cup of Nations qualification,Rabat,Morocco,FALSE,No,Win
+2022-06-09,Canada,Curaçao,North America,North America,79,38,1479,1298,4,0,CONCACAF Nations League,Vancouver,Canada,FALSE,No,Win
+2022-06-09,Antigua and Barbuda,Cuba,North America,North America,177,127,1131,950,0,2,CONCACAF Nations League,Basseterre,St. Kitts and Nevis,TRUE,No,Lose
+2022-06-09,Aruba,St. Kitts and Nevis,North America,North America,142,200,859,1072,2,3,CONCACAF Nations League,Willemstad,Curaçao,TRUE,No,Lose
+2022-06-09,Dominica,St. Lucia,North America,North America,176,184,916,953,0,1,CONCACAF Nations League,Roseau,Dominica,FALSE,No,Lose
+2022-06-09,Cayman Islands,Puerto Rico,North America,North America,172,195,873,962,0,3,CONCACAF Nations League,George Town,Cayman Islands,FALSE,No,Lose
+2022-06-09,Portugal,Czech Republic,Europe,Europe,33,8,1674,1500,2,0,UEFA Nations League,Lisbon,Portugal,FALSE,No,Win
+2022-06-09,Switzerland,Spain,Europe,Europe,7,14,1635,1709,0,1,UEFA Nations League,Geneva,Switzerland,FALSE,No,Lose
+2022-06-09,Norway,Slovenia,Europe,Europe,65,41,1463,1378,0,0,UEFA Nations League,Oslo,Norway,FALSE,No,Draw
+2022-06-09,Sweden,Serbia,Europe,Europe,25,19,1584,1547,0,1,UEFA Nations League,Stockholm,Sweden,FALSE,No,Lose
+2022-06-09,Kosovo,Northern Ireland,Europe,Europe,54,107,1173,1423,3,2,UEFA Nations League,Pristina,Kosovo,FALSE,No,Win
+2022-06-09,Greece,Cyprus,Europe,Europe,105,55,1421,1186,3,0,UEFA Nations League,Vólos,Greece,FALSE,No,Win
+2022-06-09,Gibraltar,Bulgaria,Europe,Europe,73,203,857,1338,1,1,UEFA Nations League,Gibraltar,Gibraltar,FALSE,No,Draw
+2022-06-09,North Macedonia,Georgia,Europe,Europe,85,62,1381,1276,0,3,UEFA Nations League,Skopje,North Macedonia,FALSE,No,Lose
+2022-06-09,Malta,Estonia,Europe,Europe,110,169,971,1169,1,2,UEFA Nations League,Ta' Qali,Malta,FALSE,No,Lose
+2022-06-09,New Zealand,Oman,Oceania,Asia,75,101,1206,1324,0,0,Friendly,Al Rayyan,Qatar,TRUE,No,Draw
+2022-06-09,San Marino,Iceland,Europe,Europe,63,211,776,1380,0,1,Friendly,Serravalle,San Marino,FALSE,No,Lose
+2022-06-09,Saudi Arabia,Venezuela,Asia,South America,58,49,1444,1398,0,1,Friendly,Murcia,Spain,TRUE,No,Lose
+2022-06-10,USA,Grenada,North America,North America,170,15,1633,968,5,0,CONCACAF Nations League,Austin,USA,FALSE,No,Win
+2022-06-10,St. Vincent and the Grenadines,Trinidad and Tobago,North America,South America,103,175,960,1203,0,2,CONCACAF Nations League,Kingstown,St. Vincent and the Grenadines,FALSE,No,Lose
+2022-06-10,Bahamas,Nicaragua,North America,North America,144,201,858,1062,0,2,CONCACAF Nations League,Nassau,Bahamas,FALSE,No,Lose
+2022-06-10,Dominican Republic,Guatemala,North America,North America,118,155,1029,1147,1,1,CONCACAF Nations League,Santo Domingo,Dominican Republic,FALSE,No,Draw
+2022-06-10,Austria,France,Europe,Europe,3,34,1500,1789,1,1,UEFA Nations League,Vienna,Austria,FALSE,No,Draw
+2022-06-10,Denmark,Croatia,Europe,Europe,16,11,1653,1621,0,1,UEFA Nations League,Copenhagen,Denmark,FALSE,No,Lose
+2022-06-10,Albania,Israel,Europe,Europe,76,66,1371,1305,1,2,UEFA Nations League,Tirana,Albania,FALSE,No,Lose
+2022-06-10,Azerbaijan,Slovakia,Europe,Europe,45,129,1127,1454,0,1,UEFA Nations League,Mardakan,Azerbaijan,FALSE,No,Lose
+2022-06-10,Belarus,Kazakhstan,Europe,Europe,125,93,1243,1134,1,1,UEFA Nations League,Novi Sad,Serbia,TRUE,No,Draw
+2022-06-10,Moldova,Latvia,Europe,Europe,135,180,932,1105,2,4,UEFA Nations League,Chișinău,Moldova,FALSE,No,Lose
+2022-06-10,Andorra,Liechtenstein,Europe,Europe,192,153,1040,895,2,1,UEFA Nations League,Andorra la Vella,Andorra,FALSE,No,Win
+2022-06-10,Korea Republic,Paraguay,Asia,South America,50,29,1519,1443,2,2,Friendly,Suwon,Korea Republic,FALSE,No,Draw
+2022-06-10,Chile,Tunisia,South America,Africa,35,28,1526,1499,0,2,Kirin Cup,Kobe,Japan,TRUE,No,Lose
+2022-06-10,Japan,Ghana,Asia,Africa,60,23,1553,1387,4,1,Kirin Cup,Kobe,Japan,FALSE,No,Win
+2022-06-11,Kuwait,Nepal,Asia,Asia,168,146,1059,978,4,1,AFC Asian Cup qualification,Kuwait City,Kuwait,FALSE,No,Win
+2022-06-11,Indonesia,Jordan,Asia,Asia,91,159,1001,1259,0,1,AFC Asian Cup qualification,Kuwait City,Kuwait,TRUE,No,Lose
+2022-06-11,Mongolia,Philippines,Asia,Asia,133,186,911,1117,0,1,AFC Asian Cup qualification,Ulaanbaatar,Mongolia,FALSE,No,Lose
+2022-06-11,Yemen,Palestine,Asia,Asia,100,151,1046,1208,0,5,AFC Asian Cup qualification,Ulaanbaatar,Mongolia,TRUE,No,Lose
+2022-06-11,Sri Lanka,Thailand,Asia,Asia,111,205,842,1167,0,2,AFC Asian Cup qualification,Namangan,Uzbekistan,TRUE,No,Lose
+2022-06-11,Uzbekistan,Maldives,Asia,Africa,156,83,1286,1025,4,0,AFC Asian Cup qualification,Namangan,Uzbekistan,FALSE,No,Win
+2022-06-11,Cambodia,Hong Kong,Asia,Asia,147,171,966,1053,0,3,AFC Asian Cup qualification,Kolkota,India,TRUE,No,Lose
+2022-06-11,India,Afghanistan,Asia,Asia,150,106,1174,1049,2,1,AFC Asian Cup qualification,Kolkota,India,FALSE,No,Win
+2022-06-11,Bangladesh,Turkmenistan,Asia,Asia,134,188,903,1117,1,2,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE,No,Lose
+2022-06-11,Malaysia,Bahrain,Asia,Asia,89,154,1035,1262,1,2,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,FALSE,No,Lose
+2022-06-11,Singapore,Tajikistan,Asia,Asia,114,158,1012,1159,0,1,AFC Asian Cup qualification,Bishkek,Kyrgyz Republic,TRUE,No,Lose
+2022-06-11,Kyrgyz Republic,Myanmar,Asia,Asia,152,95,1218,1044,2,0,AFC Asian Cup qualification,Bishkek,Kyrgyz Republic,FALSE,No,Win
+2022-06-11,Mexico,Suriname,North America,South America,141,9,1658,1073,3,0,CONCACAF Nations League,Torreón,Mexico,FALSE,No,Win
+2022-06-11,Guyana,Haiti,South America,North America,90,174,961,1261,2,6,CONCACAF Nations League,Leonora,Guyana,FALSE,No,Lose
+2022-06-11,Montserrat,Bermuda,North America,North America,167,178,950,982,3,2,CONCACAF Nations League,Santo Domingo,Dominican Republic,TRUE,No,Win
+2022-06-11,England,Italy,Europe,Europe,6,5,1761,1723,0,0,UEFA Nations League,Wolverhampton,England,FALSE,No,Draw
+2022-06-11,Hungary,Germany,Europe,Europe,12,40,1466,1650,1,1,UEFA Nations League,Budapest,Hungary,FALSE,No,Draw
+2022-06-11,Wales,Belgium,Europe,Europe,2,18,1588,1827,1,1,UEFA Nations League,Cardiff,Wales,FALSE,No,Draw
+2022-06-11,Netherlands,Poland,Europe,Europe,26,10,1658,1544,2,2,UEFA Nations League,Rotterdam,Netherlands,FALSE,No,Draw
+2022-06-11,Ukraine,Armenia,Europe,Europe,92,27,1535,1245,3,0,UEFA Nations League,Łódź,Poland,TRUE,No,Win
+2022-06-11,Republic of Ireland,Scotland,Europe,Europe,39,47,1449,1472,3,0,UEFA Nations League,Dublin,Republic of Ireland,FALSE,No,Win
+2022-06-11,Montenegro,Bosnia and Herzegovina,Europe,Europe,59,70,1342,1388,1,1,UEFA Nations League,Podgorica,Montenegro,FALSE,No,Draw
+2022-06-11,Romania,Finland,Europe,Europe,57,48,1446,1406,1,0,UEFA Nations League,Bucharest,Romania,FALSE,No,Win
+2022-06-11,Faroe Islands,Lithuania,Europe,Europe,138,124,1137,1092,2,1,UEFA Nations League,Tórshavn,Faroe Islands,FALSE,No,Win
+2022-06-11,Luxembourg,Turkey,Europe,Europe,43,94,1229,1461,0,2,UEFA Nations League,Luxembourg,Luxembourg,FALSE,No,Lose
+2022-06-11,Ecuador,Cabo Verde,South America,Africa,71,46,1452,1339,1,0,Friendly,Fort Lauderdale,USA,TRUE,No,Win
+2022-06-11,Uruguay,Panama,South America,North America,61,13,1635,1382,5,0,Friendly,Montevideo,Uruguay,FALSE,No,Win
+2022-06-12,Cuba,Antigua and Barbuda,North America,North America,127,177,950,1131,3,1,CONCACAF Nations League,Santiago,Cuba,FALSE,No,Win
+2022-06-12,St. Lucia,Anguilla,North America,North America,210,176,953,792,2,0,CONCACAF Nations League,Gros Islet,St. Lucia,FALSE,No,Win
+2022-06-12,Puerto Rico,British Virgin Islands,North America,North America,209,172,962,812,6,0,CONCACAF Nations League,Mayagüez,Puerto Rico,FALSE,No,Win
+2022-06-12,Spain,Czech Republic,Europe,Europe,33,7,1709,1500,2,0,UEFA Nations League,Málaga,Spain,FALSE,No,Win
+2022-06-12,Switzerland,Portugal,Europe,Europe,8,14,1635,1674,1,0,UEFA Nations League,Geneva,Switzerland,FALSE,No,Win
+2022-06-12,Norway,Sweden,Europe,Europe,19,41,1463,1584,3,2,UEFA Nations League,Oslo,Norway,FALSE,No,Win
+2022-06-12,Slovenia,Serbia,Europe,Europe,25,65,1378,1547,2,2,UEFA Nations League,Ljubljana,Slovenia,FALSE,No,Draw
+2022-06-12,Northern Ireland,Cyprus,Europe,Europe,105,54,1423,1186,2,2,UEFA Nations League,Belfast,Northern Ireland,FALSE,No,Draw
+2022-06-12,Greece,Kosovo,Europe,Europe,107,55,1421,1173,2,0,UEFA Nations League,Vólos,Greece,FALSE,No,Win
+2022-06-12,North Macedonia,Gibraltar,Europe,Europe,203,62,1381,857,4,0,UEFA Nations League,Skopje,North Macedonia,FALSE,No,Win
+2022-06-12,Georgia,Bulgaria,Europe,Europe,73,85,1276,1338,0,0,UEFA Nations League,Tbilisi,Georgia,FALSE,No,Draw
+2022-06-12,Malta,San Marino,Europe,Europe,211,169,971,776,1,0,UEFA Nations League,Ta' Qali,Malta,FALSE,No,Win
+2022-06-12,IR Iran,Algeria,Asia,Africa,44,21,1564,1461,1,2,Friendly,Doha,Qatar,TRUE,No,Lose
+2022-06-13,Australia,Peru,Oceania,South America,22,42,1462,1562,0,0,FIFA World Cup qualification,Al Rayyan,Qatar,TRUE,Yes,Win
+2022-06-13,São Tomé and Príncipe,Nigeria,Africa,Africa,30,183,917,1504,0,10,African Cup of Nations qualification,Agadir,Morocco,TRUE,No,Lose
+2022-06-13,Sierra Leone,Guinea-Bissau,Africa,Africa,115,108,1173,1158,2,2,African Cup of Nations qualification,Conakry,Guinea,TRUE,No,Draw
+2022-06-13,Morocco,Liberia,Africa,Africa,149,24,1551,1050,2,0,African Cup of Nations qualification,Casablanca,Morocco,FALSE,No,Win
+2022-06-13,Honduras,Canada,North America,North America,38,82,1289,1479,2,1,CONCACAF Nations League,San Pedro Sula,Honduras,FALSE,No,Win
+2022-06-13,Nicaragua,Bahamas,North America,North America,201,144,1062,858,4,0,CONCACAF Nations League,Managua,Nicaragua,FALSE,No,Win
+2022-06-13,Trinidad and Tobago,St. Vincent and the Grenadines,South America,North America,175,103,1203,960,4,1,CONCACAF Nations League,Port of Spain,Trinidad and Tobago,FALSE,No,Win
+2022-06-13,Guatemala,Dominican Republic,North America,North America,155,118,1147,1029,2,0,CONCACAF Nations League,Guatemala City,Guatemala,FALSE,No,Win
+2022-06-13,Denmark,Austria,Europe,Europe,34,11,1653,1500,2,0,UEFA Nations League,Copenhagen,Denmark,FALSE,No,Win
+2022-06-13,France,Croatia,Europe,Europe,16,3,1789,1621,0,1,UEFA Nations League,Paris,France,FALSE,No,Lose
+2022-06-13,Iceland,Israel,Europe,Europe,76,63,1380,1305,2,2,UEFA Nations League,Reykjavík,Iceland,FALSE,No,Draw
+2022-06-13,Azerbaijan,Belarus,Europe,Europe,93,129,1127,1243,2,0,UEFA Nations League,Mardakan,Azerbaijan,FALSE,No,Win
+2022-06-13,Kazakhstan,Slovakia,Europe,Europe,45,125,1134,1454,2,1,UEFA Nations League,Nur-Sultan,Kazakhstan,FALSE,No,Win
+2022-06-13,Albania,Estonia,Europe,Europe,110,66,1371,1169,0,0,Friendly,Tirana,Albania,FALSE,No,Draw
+2022-06-14,Costa Rica,New Zealand,North America,Oceania,101,31,1503,1206,1,0,FIFA World Cup qualification,Al Rayyan,Qatar,TRUE,No,Win
+2022-06-14,Kuwait,Jordan,Asia,Asia,91,146,1059,1259,0,3,AFC Asian Cup qualification,Kuwait City,Kuwait,FALSE,No,Lose
+2022-06-14,Indonesia,Nepal,Asia,Asia,168,159,1001,978,7,0,AFC Asian Cup qualification,Kuwait City,Kuwait,TRUE,No,Win
+2022-06-14,Palestine,Philippines,Asia,Asia,133,100,1208,1117,4,0,AFC Asian Cup qualification,Ulaanbaatar,Mongolia,TRUE,No,Win
+2022-06-14,Mongolia,Yemen,Asia,Asia,151,186,911,1046,2,0,AFC Asian Cup qualification,Ulaanbaatar,Mongolia,FALSE,No,Win
+2022-06-14,Maldives,Sri Lanka,Africa,Asia,205,156,1025,842,1,0,AFC Asian Cup qualification,Namangan,Uzbekistan,TRUE,No,Win
+2022-06-14,Uzbekistan,Thailand,Asia,Asia,111,83,1286,1167,2,0,AFC Asian Cup qualification,Namangan,Uzbekistan,FALSE,No,Win
+2022-06-14,Afghanistan,Cambodia,Asia,Asia,171,150,1049,966,2,2,AFC Asian Cup qualification,Kolkota,India,TRUE,No,Draw
+2022-06-14,India,Hong Kong,Asia,Asia,147,106,1174,1053,4,0,AFC Asian Cup qualification,Kolkota,India,FALSE,No,Win
+2022-06-14,Bahrain,Turkmenistan,Asia,Asia,134,89,1262,1117,1,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE,No,Win
+2022-06-14,Malaysia,Bangladesh,Asia,Asia,188,154,1035,903,4,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,FALSE,No,Win
+2022-06-14,Myanmar,Singapore,Asia,Asia,158,152,1044,1012,2,6,AFC Asian Cup qualification,Bishkek,Kyrgyz Republic,TRUE,No,Lose
+2022-06-14,Kyrgyz Republic,Tajikistan,Asia,Asia,114,95,1218,1159,0,0,AFC Asian Cup qualification,Bishkek,Kyrgyz Republic,FALSE,No,Draw
+2022-06-14,Jamaica,Mexico,North America,North America,9,64,1378,1658,1,1,CONCACAF Nations League,Kingston,Jamaica,FALSE,No,Draw
+2022-06-14,El Salvador,USA,North America,North America,15,74,1331,1633,1,1,CONCACAF Nations League,San Salvador,El Salvador,FALSE,No,Draw
+2022-06-14,Haiti,Guyana,North America,South America,174,90,1261,961,6,0,CONCACAF Nations League,Santo Domingo,Dominican Republic,TRUE,No,Win
+2022-06-14,England,Hungary,Europe,Europe,40,5,1761,1466,0,4,UEFA Nations League,Wolverhampton,England,FALSE,No,Lose
+2022-06-14,Germany,Italy,Europe,Europe,6,12,1650,1723,5,2,UEFA Nations League,Mönchengladbach,Germany,FALSE,No,Win
+2022-06-14,Netherlands,Wales,Europe,Europe,18,10,1658,1588,3,2,UEFA Nations League,Rotterdam,Netherlands,FALSE,No,Win
+2022-06-14,Poland,Belgium,Europe,Europe,2,26,1544,1827,0,1,UEFA Nations League,Warsaw,Poland,FALSE,No,Lose
+2022-06-14,Armenia,Scotland,Europe,Europe,39,92,1245,1472,1,4,UEFA Nations League,Yerevan,Armenia,FALSE,No,Lose
+2022-06-14,Ukraine,Republic of Ireland,Europe,Europe,47,27,1535,1449,1,1,UEFA Nations League,Łódź,Poland,TRUE,No,Draw
+2022-06-14,Bosnia and Herzegovina,Finland,Europe,Europe,57,59,1388,1406,3,2,UEFA Nations League,Zenica,Bosnia and Herzegovina,FALSE,No,Win
+2022-06-14,Romania,Montenegro,Europe,Europe,70,48,1446,1342,0,3,UEFA Nations League,Bucharest,Romania,FALSE,No,Lose
+2022-06-14,Luxembourg,Faroe Islands,Europe,Europe,124,94,1229,1137,2,2,UEFA Nations League,Luxembourg,Luxembourg,FALSE,No,Draw
+2022-06-14,Turkey,Lithuania,Europe,Europe,138,43,1461,1092,2,0,UEFA Nations League,İzmir,Turkey,FALSE,No,Win
+2022-06-14,Moldova,Andorra,Europe,Europe,153,180,932,1040,2,1,UEFA Nations League,Chișinău,Moldova,FALSE,No,Win
+2022-06-14,Liechtenstein,Latvia,Europe,Europe,135,192,895,1105,0,2,UEFA Nations League,Vaduz,Liechtenstein,FALSE,No,Lose
+2022-06-14,Chile,Ghana,South America,Africa,60,28,1526,1387,0,0,Kirin Cup,Suita,Japan,TRUE,Yes,Lose
+2022-06-14,Japan,Tunisia,Asia,Africa,35,23,1553,1499,0,3,Kirin Cup,Suita,Japan,FALSE,No,Lose
+2022-06-14,Korea Republic,Egypt,Asia,Africa,32,29,1519,1500,4,1,Friendly,Seoul,Korea Republic,FALSE,No,Win
